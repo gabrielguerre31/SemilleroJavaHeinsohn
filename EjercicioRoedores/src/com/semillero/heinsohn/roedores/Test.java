@@ -5,7 +5,6 @@ import java.util.*;
 public class Test {
 
 	public static void main(String[] args) {
-		
 		List<Roedores> roedores = new ArrayList<>();
 		Roedores raton = new Raton("Cafe", 12);
 		Roedores cuy = new Cuy("Negro", 5);
